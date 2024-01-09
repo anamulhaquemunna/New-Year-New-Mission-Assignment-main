@@ -1,0 +1,647 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Banner section  start */
+
+
+.header-section {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(resources/banner.png);
+    background-repeat: no-repeat;
+    width: 82.5%;
+    max-width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    background-size: cover;
+
+}
+
+.header-section .picture-text h3 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+
+    font-weight: 400;
+
+}
+
+.header-section .picture-text h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    width: 632px;
+    font-weight: 900;
+
+}
+
+.header-section .picture-text {
+    padding: 177px 344px;
+
+}
+
+/* Banner section  end */
+
+
+
+
+/* offer section start */
+
+.offer-section .offer-section-text h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+    font-weight: 700;
+
+}
+
+.offer-section .offer-section-text h6 {
+    margin-top: 48px;
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.offer-section .offer-section-text h3 {
+
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.second-part {
+    padding: 120px 399px;
+}
+
+
+
+.offer-section-text {
+    align-items: center;
+    width: 82.5%;
+    max-width: 1320px;
+    margin: 10px auto;
+
+
+}
+
+.second-part .offer-section-text img {
+
+    align-items: center;
+    width: 82%;
+    max-width: 1320px;
+    margin: 10px auto;
+    width: 802.9px;
+    height: 500px;
+
+}
+
+/* offer section end */
+
+
+
+
+/* third midnight-party section start */
+
+.third-section {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(resources/Vectorrr.png);
+
+    max-width: 1320px;
+    max-height: 600px;
+    background-repeat: no-repeat;
+    width: 82.5%;
+    max-width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    background-size: cover;
+    border-radius: 15px;
+
+
+}
+
+.third-section .midnight-text h2 {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    width: 642px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-top: 50px;
+}
+
+.third-section .midnight-text p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    width: 697px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 48px;
+}
+
+.third-section .midnight-text strong {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.third-parent {
+    display: flex;
+    padding: 68px 126px;
+    justify-content: space-between;
+}
+
+.third-parent .midnight-text button {
+    background-color: transparent;
+}
+
+/* third midnight-party section end */
+
+
+
+
+
+/* forth timing and joining section start */
+
+
+.joining .joining-text {
+
+
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    border-radius: 15px;
+    padding: 90px 350px;
+
+
+}
+
+.click {
+
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    outline: none;
+    margin-top: 48px;
+
+}
+
+.click button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 700;
+    background-color: transparent;
+    border-color: transparent;
+
+
+}
+
+.joining .joining-text p {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+
+    font-weight: 600;
+    line-height: 56px;
+
+}
+
+.joining .joining-text span {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+
+    font-weight: 600px;
+    line-height: 56px;
+
+}
+
+.joining {
+
+    max-width: 1320px;
+    max-height: 482px;
+    margin: 120px auto;
+    width: 82.5%;
+
+}
+
+/* forth timing and joining section end */
+
+
+
+
+
+/* fifth comming soon section start */
+.comming-soon {
+    padding: 120px 140px;
+    width: 82.5%;
+    max-width: 1320px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.comming-soon .comming-soon-parent .left-text h6 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.comming-soon .comming-soon-parent .left-text h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900; 
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.comming-soon .comming-soon-parent .left-text p,
+.right-text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+}
+
+.comming-soon .comming-soon-parent .right-text h2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.comming-soon .comming-soon-parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.comming-soon .comming-soon-parent .commin-soon-image img {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 15px;
+    margin-top: 43px;
+}
+
+/* fifth comming soon section end */
+
+
+
+
+
+/* holiday sale 50% section start  */
+.discount b {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+
+.discount h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+   
+}
+
+.discount span {
+    color: #F00;
+}
+
+.discount p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.discount .discount-part .discount-text {
+    text-align: center;
+    padding: 120px 266px;
+}
+
+.discount {
+    max-width: 1320px;
+    max-height: 1050px;
+    margin: 120px auto;
+}
+
+
+.discount .discount-part .discount-img .giftbox {
+    width: 98.77px;
+    height: 145.319px;
+    flex-shrink: 0;
+}
+
+.discount .discount-part .discount-img .all-image {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+
+.discount .discount-part .discount-img .all-image {
+    margin-top: 0px;
+    position: relative;
+}
+
+.discount .discount-part .discount-img .all-image .discount {
+    margin-left: 777px;
+    margin-right: 425px;
+    position: absolute;
+}
+
+/* holiday sale 50% section end  */
+
+
+
+
+
+/* The best gift part start  */
+
+.best-gift {
+    padding: 120px 140px;
+    width: 82.5%;
+    max-width: 1320px;
+    height: 1000px;
+    margin: 50px auto;
+}
+
+.best-gift .best-gift-parent .best-gift-text h6 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.best-gift .best-gift-parent .best-gift-text h3 {
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+
+
+}
+
+.best-gift .best-gift-parent .best-gift-text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 400;
+
+    width: 896px;
+    margin-bottom: 48px;
+}
+
+.best-gift .best-gift-parent .best-gift-first-imagerow {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.best-gift .best-gift-parent .best-gift-second-imagerow {
+    display: flex;
+    gap: 24px;
+}
+
+/* The best gift part end  */
+
+
+
+
+
+
+/* subscribe section start */
+
+.subscribe {
+    padding: 120px 140px;
+    width: 82.5%;
+    height: 616px;
+    max-width: 1320px;
+    margin: 50px auto;
+
+
+}
+
+.subscribe .subscribe-parent {
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    text-align: center;
+    height: 616px;
+    max-width: 1320px;
+}
+
+.subscribe .subscribe-parent .subscribe-child {
+    padding: 80px 212px;
+}
+
+.subscribe .subscribe-parent .subscribe-child img {
+    width: 150px;
+    height: 150px;
+}
+
+.subscribe .subscribe-parent .subscribe-child h2 {
+    color: #070211;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+    margin-top: 40px;
+
+
+}
+
+.subscribe .subscribe-parent .subscribe-child p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 896px;
+    margin-top: 22px;
+}
+
+.subscribe .subscribe-parent .subscribe-child input {
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    margin-top: 48px;
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 20px;
+
+    text-align: left;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.subscribe .subscribe-parent .subscribe-child button {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    border: none;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+
+
+
+
+}
+
+.subscribe .subscribe-parent .input-formet {
+
+    justify-content: center;
+}
+
+
+/* subscribe section end */
+
+
+
+
+
+/* footer section start here */
+
+.footer-section {
+
+
+    background: #070211;
+
+}
+
+.footer-section .all-item {
+    width: 82.5%;
+    max-width: 1320px;
+    height: 600px;
+    margin: auto;
+
+}
+
+.footer-section .footer-part .website-link,
+.contact {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.footer-section .footer-part {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section .footer-part .address h6 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer-section .footer-part .contact p {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-section .footer-part .website-link p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.footer-section .all-item {
+    padding: 120px 140px;
+}
+
+.footer-section .all-item .footer-part,
+hr,
+.website-image,
+.copyright {
+    margin-bottom: 50px;
+}
+
+.footer-section .all-item hr {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.footer-section .all-item .website-image {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.footer-section .all-item .copyright p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.footer-section .all-item .copyright {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* footer section end here */
